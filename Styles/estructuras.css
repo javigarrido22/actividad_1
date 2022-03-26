@@ -1,0 +1,44 @@
+*{ margin: 0px; 
+    padding: 0px;
+ }
+ .caja-arriba {
+     width: 150px;
+     margin: 0px;
+     padding: 1px;
+    
+ }
+ body {background-color: black;}
+ .caja-izquierda {
+     width: 150px;
+     position: fixed;
+     height: 100%;
+     width: 150px;
+    
+ }
+ 
+.caja-body  {
+     position: relative;
+     left: 150px;
+     height: 200px;
+     width: 90%;
+     
+
+
+ 
+    }
+ .caja1 {background-color: skyblue;}   
+ .caja2 {background-color: yellow;}
+ .caja3{background-color: orange;}
+ .caja4{background-color: red;}
+
+
+ 
+    #caja-pie {
+     position: absolute;
+     bottom: 0px;
+     width: 100%;
+     text-align: center;
+     text-transform: lowercase;
+     border-top: 1px solid #c1c1c1;
+     padding-top: 10px;
+ }
