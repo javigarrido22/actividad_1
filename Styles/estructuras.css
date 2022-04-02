@@ -10,9 +10,9 @@
  body {background-color: black;}
  .caja-izquierda {
      width: 150px;
-     position: fixed;
-     height: 100%;
-     width: 150px;
+     position: absolute;
+     height: 50%;
+   
     
  }
  
